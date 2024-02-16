@@ -1,0 +1,13 @@
+{
+    "config name": "Synthetic+Manual.pt",
+    "train sets": [
+        "./datasets/new_blender_dataset/Config1",
+        "./datasets/new_blender_dataset/Config2",
+        "./datasets/new_blender_dataset/Config3",
+        "./datasets/new_blender_dataset/Config4",
+        "./datasets/manual_dataset/one/",
+        "./datasets/manual_dataset/two/",
+        "./datasets/manual_dataset/three/"
+    ],
+    "weight name": "Synthetic+Manual.pt"
+}
